@@ -1,0 +1,25 @@
+{
+  "preferences": {
+    "genres": [
+      {
+        "name": "심리학",
+        "weight": 0.8
+      },
+      {
+        "name": "자기계발",
+        "weight": 0.7
+      },
+      {
+        "name": "에세이",
+        "weight": 0.6
+      }
+    ],
+    "reading_style": {
+      "preferred_length": "중간",
+      "complexity_level": "쉬움",
+      "tone": "따뜻함"
+    },
+    "keywords": ["불안", "힐링", "위로", "심리", "일상"],
+    "avoid_topics": ["우울", "공포", "긴장감"]
+  }
+}

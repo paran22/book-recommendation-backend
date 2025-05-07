@@ -1,0 +1,54 @@
+{
+  "recommended_books_relevance": [
+    {
+      "title": "침묵을 배우는 시간 : 말이 넘쳐나는 세상 속, 더욱 빛을 발하는 침묵의 품격",
+      "author": "코르넬리아 토프 지음 ;장혜경 옮김",
+      "relevance_score": 5.0
+    },
+    {
+      "title": "나답게 산다는 것 : 나를 찾고자 하는 이들의 철학수업",
+      "author": "박은미 지음",
+      "relevance_score": 4.5
+    },
+    {
+      "title": "내가 누구인지 아는 것이 왜 중요한가",
+      "author": "페터 베르 지음 ;장혜경 옮김",
+      "relevance_score": 4.0
+    },
+    {
+      "title": "각본 없음 : 삶의 다음 페이지로 넘어가기 위해 쓴 것들",
+      "author": "아비 모건 지음 ;이유림 옮김",
+      "relevance_score": 4.0
+    },
+    {
+      "title": "외로움의 습격 : 모두, 홀로 남겨질 것이다",
+      "author": "김만권 지음",
+      "relevance_score": 3.5
+    },
+    {
+      "title": "자화상 내 마음을 그리다",
+      "author": "김선현 지음",
+      "relevance_score": 3.0
+    },
+    {
+      "title": "(쇼펜하우어의) 고독한 행복",
+      "author": "아르투어 쇼펜하우어 지음",
+      "relevance_score": 2.5
+    },
+    {
+      "title": "세상에서 가장 긴 행복 탐구 보고서",
+      "author": "로버트 월딩거,마크 슐츠 지음",
+      "relevance_score": 2.0
+    },
+    {
+      "title": "생각의 기술 : 바로 써먹는 논리학 사용법",
+      "author": "코디정 지음",
+      "relevance_score": 1.5
+    },
+    {
+      "title": "AGI 시대와 인간의 미래",
+      "author": "맹성현 지음",
+      "relevance_score": 1.0
+    }
+  ]
+}
