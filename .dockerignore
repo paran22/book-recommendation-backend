@@ -1,0 +1,19 @@
+# 파이썬 캐시/가상환경
+__pycache__/
+.venv/
+*.pyc
+
+# Git 관련
+.git/
+.gitignore
+
+# Jupyter 노트북
+*.ipynb
+
+# 테스트/샘플 데이터
+data/
+README.md
+
+# 기타 불필요한 파일
+*.log
+.DS_Store
