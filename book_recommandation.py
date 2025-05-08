@@ -108,12 +108,13 @@ else:
 if not os.path.exists(PREFS_DB_DIR):
     with open('./data/test-case/user_reading_preferences.json', 'r', encoding='utf-8') as f:
         reading_preferences = json.load(f)
-        preferences_text = f"선호 장르: {', '.join([f'{g['name']}({g['weight']})' for g in reading_preferences['preferences']['genres']])}\n"
-        preferences_text += f"독서 스타일: 길이({reading_preferences['preferences']['reading_style']['preferred_length']}), "
-        preferences_text += f"복잡도({reading_preferences['preferences']['reading_style']['complexity_level']}), "
-        preferences_text += f"톤({reading_preferences['preferences']['reading_style']['tone']})\n"
-        preferences_text += f"관심 키워드: {', '.join(reading_preferences['preferences']['keywords'])}\n"
-        preferences_text += f"기피 주제: {', '.join(reading_preferences['preferences']['avoid_topics'])}"
+        genre_list = [f"{g['name']}({g['weight']})" for g in reading_preferences['preferences']['genres']]
+        preferences_text = f'선호 장르: {", ".join(genre_list)}\n'
+        preferences_text += f'독서 스타일: 길이({reading_preferences["preferences"]["reading_style"]["preferred_length"]}), '
+        preferences_text += f'복잡도({reading_preferences["preferences"]["reading_style"]["complexity_level"]}), '
+        preferences_text += f'톤({reading_preferences["preferences"]["reading_style"]["tone"]})\n'
+        preferences_text += f'관심 키워드: {", ".join(reading_preferences["preferences"]["keywords"])}\n'
+        preferences_text += f'기피 주제: {", ".join(reading_preferences["preferences"]["avoid_topics"])}'
         preferences_metadata = {
             'genres_str': ', '.join([g['name'] for g in reading_preferences['preferences']['genres']]),
             'keywords_str': ', '.join(reading_preferences['preferences']['keywords']),
