@@ -1,0 +1,158 @@
+[
+  {
+    "original_recommendation": {
+      "title": "잠깐 머리 좀 식히고 오겠습니다",
+      "author": "윤대현  ",
+      "isbn": "9788965746584",
+      "matched_library_title": "잠깐 머리 좀 식히고 오겠습니다",
+      "matched_library_author": "윤대현"
+    },
+    "aladin_info": {
+      "version": "20131101",
+      "logo": "http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif",
+      "title": "알라딘 상품정보 - 잠깐 머리 좀 식히고 오겠습니다",
+      "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151352195&amp;partner=openAPI",
+      "pubDate": "Mon, 19 May 2025 04:51:13 GMT",
+      "totalResults": 1,
+      "startIndex": 1,
+      "itemsPerPage": 1,
+      "query": "isbn13=9788965746584",
+      "searchCategoryId": 0,
+      "searchCategoryName": "",
+      "item": [
+        {
+          "title": "잠깐 머리 좀 식히고 오겠습니다",
+          "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151352195&amp;partner=openAPI&amp;start=api",
+          "author": "윤대현 (지은이)",
+          "pubDate": "2018-06-18",
+          "description": "많은 사람들의 심리에 명쾌한 처방과 따뜻한 위로를 건네왔던 서울대병원 정신과 전문의 윤대현 교수는 진짜 중요한 것은 스트레스를 없애거나 피하는 것이 아니라 그것을 잘 받아들이는 것이라고 말한다.",
+          "isbn": "8965746582",
+          "isbn13": "9788965746584",
+          "itemId": 151352195,
+          "priceSales": 16650,
+          "priceStandard": 18500,
+          "mallType": "BOOK",
+          "stockStatus": "",
+          "mileage": 920,
+          "cover": "https://image.aladin.co.kr/product/15135/21/coversum/8965746582_1.jpg",
+          "categoryId": 51514,
+          "categoryName": "국내도서>인문학>심리학/정신분석학>교양 심리학",
+          "publisher": "해냄",
+          "salesPoint": 459,
+          "adult": false,
+          "fixedPrice": true,
+          "customerReviewRank": 9,
+          "subInfo": {
+            "subTitle": "",
+            "originalTitle": "",
+            "itemPage": 292
+          }
+        }
+      ]
+    }
+  },
+  {
+    "original_recommendation": {
+      "title": "나에게 오늘을 선물합니다",
+      "author": "김나위  ",
+      "isbn": "9791190456425",
+      "matched_library_title": "나에게 오늘을 선물합니다",
+      "matched_library_author": "김나위"
+    },
+    "aladin_info": {
+      "version": "20131101",
+      "logo": "http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif",
+      "title": "알라딘 상품정보 - 나에게 오늘을 선물합니다",
+      "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296111790&amp;partner=openAPI",
+      "pubDate": "Mon, 19 May 2025 04:51:13 GMT",
+      "totalResults": 1,
+      "startIndex": 1,
+      "itemsPerPage": 1,
+      "query": "isbn13=9791190456425",
+      "searchCategoryId": 0,
+      "searchCategoryName": "",
+      "item": [
+        {
+          "title": "나에게 오늘을 선물합니다 - 오늘 하루, 나에게 주어진 뻔한 삶에서 벗어나기!",
+          "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296111790&amp;partner=openAPI&amp;start=api",
+          "author": "김나위 (지은이)",
+          "pubDate": "2022-06-15",
+          "description": "책은 숱하게 만나는 절망의 순간들 앞에서 공감하고 위로해준다. 당신 안에는 이미 실패를 털고 일어날 힘이 있다고, 그러니 절망감 따위는 내던지고 당신 자신을 믿으며 다시 한 번 달려가자고! 억지스러운 ‘열정팔이’가 아닌, 정말 당신 자신에게 기대는 공감과 위로, 셀프 힐링으로 또다시 힘을 내보자.",
+          "isbn": "K802838873",
+          "isbn13": "9791190456425",
+          "itemId": 296111790,
+          "priceSales": 15120,
+          "priceStandard": 16800,
+          "mallType": "BOOK",
+          "stockStatus": "",
+          "mileage": 840,
+          "cover": "https://image.aladin.co.kr/product/29611/17/coversum/k802838873_2.jpg",
+          "categoryId": 51371,
+          "categoryName": "국내도서>에세이>한국에세이",
+          "publisher": "다연",
+          "salesPoint": 54,
+          "adult": false,
+          "fixedPrice": true,
+          "customerReviewRank": 0,
+          "subInfo": {
+            "subTitle": "오늘 하루, 나에게 주어진 뻔한 삶에서 벗어나기!",
+            "originalTitle": "",
+            "itemPage": 288
+          }
+        }
+      ]
+    }
+  },
+  {
+    "original_recommendation": {
+      "title": "마음은 괜찮냐고 시가 물었다 : 시 읽어주는 정신과 의사가 건네는 한 편의 위로",
+      "author": "황인환  ",
+      "isbn": "9791192097053",
+      "matched_library_title": "마음은 괜찮냐고 시가 물었다 : 시 읽어주는 정신과 의사가 건네는 한 편의 위로",
+      "matched_library_author": "황인환"
+    },
+    "aladin_info": {
+      "version": "20131101",
+      "logo": "http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif",
+      "title": "알라딘 상품정보 - 마음은 괜찮냐고 시가 물었다",
+      "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284529402&amp;partner=openAPI",
+      "pubDate": "Mon, 19 May 2025 04:51:13 GMT",
+      "totalResults": 1,
+      "startIndex": 1,
+      "itemsPerPage": 1,
+      "query": "isbn13=9791192097053",
+      "searchCategoryId": 0,
+      "searchCategoryName": "",
+      "item": [
+        {
+          "title": "마음은 괜찮냐고 시가 물었다 - 시 읽어주는 정신과 의사가 건네는 한 편의 위로",
+          "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284529402&amp;partner=openAPI&amp;start=api",
+          "author": "황인환 (지은이)",
+          "pubDate": "2021-12-07",
+          "description": "“어떠한 이론도 충분하지 않을 때 나는 시에서 답을 찾았다” 정신과 의사가 시를 읽으며 깨달은 것들.",
+          "isbn": "K802835616",
+          "isbn13": "9791192097053",
+          "itemId": 284529402,
+          "priceSales": 13500,
+          "priceStandard": 15000,
+          "mallType": "BOOK",
+          "stockStatus": "절판",
+          "mileage": 750,
+          "cover": "https://image.aladin.co.kr/product/28452/94/coversum/k802835616_1.jpg",
+          "categoryId": 51514,
+          "categoryName": "국내도서>인문학>심리학/정신분석학>교양 심리학",
+          "publisher": "웨일북",
+          "salesPoint": 490,
+          "adult": false,
+          "fixedPrice": true,
+          "customerReviewRank": 10,
+          "subInfo": {
+            "subTitle": "시 읽어주는 정신과 의사가 건네는 한 편의 위로",
+            "originalTitle": "",
+            "itemPage": 264
+          }
+        }
+      ]
+    }
+  }
+]
